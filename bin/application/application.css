@@ -1,0 +1,22 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.btn{
+	-fx-background-color:none;
+}
+
+.panel{
+	-fx-background-radius:100px;
+	-fx-border-style:solid;
+	-fx-border-radius:100px;
+	-fx-background-color:#1A222D;
+}
+
+.label{
+	-fx-font-family:Arial;
+}
+
+.sumit{
+	-fx-border-radius:2px;
+	-fx-border-color:#3E9D29;
+	-fx-background-color:black;
+}
